@@ -1,0 +1,79 @@
+.about{
+    width: 100%;
+    height: auto;
+    background-color: rgb(19, 19, 19);
+
+}
+.about img{
+    width: 100%;
+
+}
+
+.aboutus{
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.aboutus h1{
+    text-align:left;
+    color: white;
+    
+}
+.aboutus li{
+    text-align:left;
+    color: white;
+    font-size: 30px;
+}
+.aboutus p{
+    text-align:left;
+    color: white;
+    font-size: 20px;
+}
+.aboutus a{
+    text-align:left;
+    color: white;
+    font-size: 20px;
+}
+.aboutus .goToShop {
+    background-color: transparent;
+    border: 2px solid rgb(255, 255, 255);
+    color: white;
+    min-width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    font-size: 25px;
+  }
+  
+  .aboutus .goToShop:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+  }
+
+.joinUs{
+    background-color: rgb(255, 192, 0);
+    
+}
+.joinUs .txtpart{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align:left;
+    color: white;
+}
+.joinUs .txtpart p{
+    text-align:left;
+    color: white;
+    font-size: 30px;
+}
+.joinUs .txtpart h1{
+    text-align:left;
+    color: white;
+}
+.joinUs a{
+    text-align:left;
+    color: white;
+    font-size: 30px;
+}

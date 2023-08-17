@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "productName": "IPhone 14",
+        "price": 999.0,
+        "productImage": "../assets/1.png",
+        "productImage2": "../assets/1_2.png"
+    },
+    {
+        "id": 2,
+        "productName": "IPad Pro",
+        "price": 1999.0,
+        "productImage": "./assets/2.png",
+        "productImage2": "./assets/2_2.png"
+    },
+    {
+        "id": 3,
+        "productName": "MacBook Pro",
+        "price": 2999.0,
+        "productImage": "./assets/3.png",
+        "productImage2": "./assets/3_2.png"
+    },
+    {
+        "id": 4,
+        "productName": "airPods Pro",
+        "price": 99.0,
+        "productImage": "./assets/4.png",
+        "productImage2": "./assets/4_2.png"
+    },
+    {
+        "id": 5,
+        "productName": "HomePod mini",
+        "price": 999.0,
+        "productImage": "./assets/5.png",
+        "productImage2": "./assets/5_2.png"
+    },
+    {
+        "id": 6,
+        "productName": "Home Pod",
+        "price": 1999.0,
+        "productImage": "./assets/6.png",
+        "productImage2": "./assets/6_2.png"
+    },
+    {
+        "id": 7,
+        "productName": "IWatch",
+        "price": 1999.0,
+        "productImage": "./assets/7.png",
+        "productImage2": "./assets/7_2.png"
+    },
+    {
+        "id": 8,
+        "productName": "AirTag",
+        "price": 1999.0,
+        "productImage": "./assets/8.png",
+        "productImage2": "./assets/8_2.png"
+    },
+    {
+        "id": 9,
+        "productName": "Mac",
+        "price": 1999.0,
+        "productImage": "./assets/9.png",
+        "productImage2": "./assets/9_2.png"
+    }
+]
